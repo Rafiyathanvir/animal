@@ -1,0 +1,18 @@
+body{
+    background-image:url("https://thumbs.dreamstime.com/z/woodland-animals-set-owl-hedgehog-fox-butterfly-bunny-rabbit-set-forest-squirrel-chipmunk-bear-bird-baby-set-199018741.jpg") ;
+}
+#active{
+    border: solid 2px black;
+    margin-top: 8% ;
+    text-align: center;
+    font-size: 150%;
+    width: 90%;
+    margin-left: 5%;
+    
+    background-color: rgb(170, 188, 188);
+
+}
+#n{
+   margin-top: 5%;
+
+}
